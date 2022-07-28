@@ -1,0 +1,30 @@
+{
+    "ethereum": {
+        "startId": 0,
+        "maxSupply": 142
+    },
+    "arbitrum": {
+        "startId": 142,
+        "maxSupply": 284
+    },
+    "optimism": {
+        "startId": 284,
+        "maxSupply": 426
+    },
+    "polygon": {
+        "startId": 426,
+        "maxSupply": 568
+    },
+    "bsc": {
+        "startId": 568,
+        "maxSupply": 710
+    },
+    "avax": {
+        "startId": 710,
+        "maxSupply": 852
+    },
+    "fantom": {
+        "startId": 852,
+        "maxSupply": 1000
+    }
+}
